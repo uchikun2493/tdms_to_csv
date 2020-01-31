@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__
+*.tdms
+*.tdms_index
+*.csv
+*.png
+
